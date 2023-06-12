@@ -1,0 +1,23 @@
+.quotes{
+    margin: auto;
+    text-align: center;
+    margin: 40px 0px;
+    font-family:'Times New Roman';
+    font-size: 35px;
+}
+.quotes h1{
+    font-weight: 900;
+    font-family: Impact;
+    font-size: 80px;
+}
+.quotes button{
+    display: inline-block;
+    padding: 30px 60px;
+    background-color: blue;
+    color: white;
+    font-size: 25px;
+}
+.quotes button:hover{
+    background-color: green;
+    border: 3px dashed yellow;
+}
